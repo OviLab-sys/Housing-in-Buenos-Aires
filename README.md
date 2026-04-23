@@ -6,7 +6,7 @@ Building on prior experience analyzing the housing market in Mexico, this projec
 
 The final model provides a practical tool for understanding how factors like location, size, and property characteristics impact apartment prices, offering value to potential buyers, investors, and real estate professionals.
 
-🚀 Key Highlights
+🚀 Key Highlights<br>
   -**Applied end-to-end data science workflow** (wrangling → exploration → modeling) <br>
   -**Built and evaluated machine learning regression models** <br>
   -**Focused on real-world affordability constraints** (under $400K market segment) <br>
